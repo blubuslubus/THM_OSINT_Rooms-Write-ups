@@ -7,7 +7,7 @@ Link: https://tryhackme.com/room/missingperson
 
 1. Q1: What is the commercial name of this circuit?
    
-A1: Download the task files, extract the .zip, and use a reverse image search tool to find the location.
+   A1: Download the task files, extract the .zip, and use a reverse image search tool to find the location.
 
 2. Q2: When did the event take place?
    
